@@ -10,17 +10,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity & Coding Metrics
 
 <p align="left">
-  <!-- Thống kê chung -->
-  <img src="https://github-readme-stats.vercel.app/api?username=quangdz312&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <!-- Bảng thống kê phong cách Radical (Đỏ hồng/Vàng neon cực cháy) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=quangdz312&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="49%" />
   
-  <!-- Chuỗi ngày hoạt động (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangdz312&theme=tokyonight&hide_border=false" width="48%" />
+  <!-- Biểu đồ hiển thị các ngôn ngữ bạn code nhiều nhất -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdz312&layout=compact&theme=radical&border_radius=10&hide=html,css" width="49%" />
 </p>
 
----
+<br>
 
-## ⚡ Fun Fact
-* 🎯 Đang tập trung nghiên cứu chuyên sâu về Học tăng cường (Reinforcement Learning) và Trí tuệ nhân tạo.
+<!-- Thanh tiến trình hiển thị tổng quan hoạt động trong tuần dưới dạng biểu đồ tối giản -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=quangdz312&theme=radical&border_radius=10" width="99%" />
+</p>
