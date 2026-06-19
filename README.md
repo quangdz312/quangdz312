@@ -1,19 +1,12 @@
 ## 🚀 My Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📘 <a href="https://github.com/quangdz312/Reinforcement-Learning">Reinforcement-Learning</a></h3>
-      <p>Các thuật toán và mô hình học tăng cường (RL).</p>
-      <p>🔵 Python</p>
-    </td>
-    <td width="50%">
-      <h3>📙 <a href="https://github.com/quangdz312/Reinforcement-Learning-Projects">Reinforcement-Learning-Projects</a></h3>
-      <p>Dự án ứng dụng Reinforcement Learning thực tế.</p>
-      <p>🔵 Python</p>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <!-- Thẻ dự án 1 - Giao diện màu xanh tím -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning&theme=tokyonight&show_owner=false" width="49%" />
+  
+  <!-- Thẻ dự án 2 - Giao diện màu cá tính đổi theme khác để tạo độ rực rỡ -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning-Projects&theme=radical&show_owner=false" width="49%" />
+</p>
 
 ---
 
