@@ -20,9 +20,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdz312&layout=compact&theme=radical&border_radius=10&hide=html,css" width="49%" />
 </p>
 
-<br>
+---
 
-<!-- Thanh tiến trình hiển thị tổng quan hoạt động trong tuần dưới dạng biểu đồ tối giản -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=quangdz312&theme=radical&border_radius=10" width="99%" />
+## 🛠️ Tech Stack & Core Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=ff4a5a" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=ffd319" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=ff4a5a" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=19f4d6" />
+  <img src="https://img.shields.io/badge/Machine_Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white&color=ff4a5a" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-0052CC?style=for-the-badge&logo=google-mind&logoColor=white&color=ffd319" />
 </p>
