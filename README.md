@@ -3,6 +3,9 @@
 My name is Dang Minh Quang. I am an AI enthusiast and developer focusing on **Reinforcement Learning (RL)**, **Computer Vision (CV)**, and **Large Language Models (LLMs)**.
 
 ### 📬 How to reach me:
+<p align="left">
+  <a href="https://github.com/quangdz312" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ## 🚀 My Projects
 
