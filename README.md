@@ -31,16 +31,21 @@ My name is Dang Minh Quang. I am an AI enthusiast and developer focusing on **Re
 
 ---
 
+---
+
 ## 🛠️ Tech Stack & Core Skills
 
+<!-- Hàng 1: Ngôn ngữ lập trình cốt lõi -->
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=ff4a5a" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=ffd319" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=ff4a5a" />
 </p>
 
+<!-- Hàng 2: Định hướng chuyên sâu AI -->
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=19f4d6" />
-  <img src="https://img.shields.io/badge/Machine_Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white&color=ff4a5a" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-0052CC?style=for-the-badge&logo=google-mind&logoColor=white&color=ffd319" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-0052CC?style=for-the-badge&logo=google-mind&logoColor=white&color=ff4a5a" />
+  <img src="https://img.shields.io/badge/Computer_Vision-🔬?style=for-the-badge&logo=opencv&logoColor=white&color=ffd319" />
+  <img src="https://img.shields.io/badge/LLMs-🤖?style=for-the-badge&logo=huggingface&logoColor=white&color=19f4d6" />
 </p>
