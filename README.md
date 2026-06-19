@@ -10,11 +10,13 @@ My name is Dang Minh Quang. I am an AI enthusiast and developer focusing on **Re
 ## 🚀 My Projects
 
 <p align="left">
-  <!-- Thẻ dự án 1 - Giao diện màu xanh tím -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning&theme=tokyonight&show_owner=false" width="49%" />
+  <!-- Thẻ dự án 1 - Click để mở source code Reinforcement-Learning -->
+  <a href="https://github.com/quangdz312/Reinforcement-Learning" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning&theme=tokyonight&show_owner=false" width="49%" />
+  </a>
   
-  <!-- Thẻ dự án 2 - Giao diện màu cá tính đổi theme khác để tạo độ rực rỡ -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning-Projects&theme=radical&show_owner=false" width="49%" />
+  <!-- Thẻ dự án 2 - Click để mở source code Reinforcement-Learning-Projects -->
+  <a href="https://github-readme-stats.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning-Projects&theme=radical&show_owner=false" width="49%" />
 </p>
 
 ---
