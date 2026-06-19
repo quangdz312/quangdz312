@@ -1,3 +1,9 @@
+# WELCOME TO MY PAGE 👋👋👋
+
+My name is Dang Minh Quang. I am an AI enthusiast and developer focusing on **Reinforcement Learning (RL)**, **Computer Vision (CV)**, and **Large Language Models (LLMs)**.
+
+### 📬 How to reach me:
+
 ## 🚀 My Projects
 
 <p align="left">
