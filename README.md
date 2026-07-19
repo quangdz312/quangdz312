@@ -1,63 +1,180 @@
-# WELCOME TO MY PAGE 👋👋👋
+<div align="center">
 
-My name is **Dang Minh Quang**. I am an AI enthusiast and developer focusing on **Reinforcement Learning (RL)**, **Computer Vision (CV)**, and **Large Language Models (LLMs)**.
+# 👋 Hi, I'm Dang Minh Quang
 
-### 📬 How to reach me:
+### 🤖 AI • Robotics • Reinforcement Learning • Computer Vision • LLMs
 
-<p align="left">
-  <a href="https://github.com/quangdz312" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Robotics+Developer;Reinforcement+Learning;Computer+Vision;Large+Language+Models" />
+
+</div>
 
 ---
 
-## 🚀 My Projects
+# 🚀 About Me
+
+- 🎓 Student at **HUS - VNU**
+- 🤖 Passionate about **Robotics & Autonomous Navigation**
+- 🧠 Interested in **Reinforcement Learning**
+- 👁️ Building **Computer Vision** applications
+- 💬 Exploring **Large Language Models**
+
+---
+
+# 🚀 Featured Projects
 
 <p align="center">
 
-<a href="https://github.com/quangdz312/Reinforcement-Learning" target="_blank">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning&theme=tokyonight&show_owner=false&border_radius=10"/>
+<a href="https://github.com/quangdz312/my_robot">
+<img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=quangdz312&repo=my_robot&theme=tokyonight&show_owner=false&border_radius=12"/>
 </a>
 
-<a href="https://github.com/quangdz312/Reinforcement-Learning-Projects" target="_blank">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning-Projects&theme=tokyonight&show_owner=false&border_radius=10"/>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/quangdz312/Reinforcement-Learning">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning&theme=tokyonight&show_owner=false&border_radius=12"/>
+</a>
+
+<a href="https://github.com/quangdz312/Reinforcement-Learning-Projects">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning-Projects&theme=tokyonight&show_owner=false&border_radius=12"/>
 </a>
 
 </p>
 
 ---
 
-## 📊 Activity & Coding Metrics
+# 📊 GitHub Analytics
 
+<p align="center">
 
-<tr>
-<td width="55%">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quangdz312&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=12"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=quangdz312&show_icons=true&theme=radical&rank_icon=github&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quangdz312&theme=tokyonight&hide_border=true&border_radius=12&card_width=445"/>
 
-</td>
+</p>
 
+<p align="center">
 
-</tr>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=quangdz312&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Core Skills
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 🤖 Robotics
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=ff4a5a"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=ffd319"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=ff4a5a"/>
+<p>
+
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RViz2-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MoveIt2-009688?style=for-the-badge"/>
+
 </p>
 
-### 🤖 AI & Machine Learning
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=19f4d6"/>
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-0052CC?style=for-the-badge&logo=google-mind&logoColor=white&color=ff4a5a"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&color=ffd319"/>
-  <img src="https://img.shields.io/badge/LLMs-FF9900?style=for-the-badge&logo=huggingface&logoColor=white&color=19f4d6"/>
+## 🧠 AI & Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-8E24AA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-FFB300?style=for-the-badge"/>
+
 </p>
+
+---
+
+## 💻 Programming Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+</p>
+
+---
+
+## ⚙️ Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 ROS2 Robot
+- 🚗 Autonomous Navigation
+- 🧠 Reinforcement Learning
+- 👁️ Computer Vision
+- 💬 Large Language Models
+
+---
+
+# 📚 Currently Learning
+
+- ✅ Python
+- ✅ C++
+- ✅ PyTorch
+- ✅ Reinforcement Learning
+- 🔄 ROS2
+- 🔄 Navigation2
+- 🔄 MoveIt2
+- 🔄 Isaac Sim
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=quangdz312&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=quangdz312&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Quote
+
+> *"Learning by building. Building by experimenting."*
+
+</div>
