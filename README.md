@@ -171,26 +171,13 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=quangdz312&theme=tokyonight"
-/>
-
-</p>
-
----
-
 # 👀 Profile Views
 
 <p align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=quangdz312&style=for-the-badge&color=blueviolet"
-/>
-
+  <img
+    src="https://komarev.com/ghpvc/?username=quangdz312&style=for-the-badge&color=blueviolet"
+    alt="Profile Views"
+  />
 </p>
 
 ---
