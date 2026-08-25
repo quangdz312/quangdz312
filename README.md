@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Hi, I'm Dang Minh Quang
@@ -25,7 +26,10 @@
 <p align="center">
 
 <a href="https://github.com/quangdz312/my_robot">
-<img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=quangdz312&repo=my_robot&theme=tokyonight&show_owner=false&border_radius=12"/>
+  <img
+    width="98%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=quangdz312&repo=my_robot&theme=tokyonight&show_owner=false&border_radius=12"
+  />
 </a>
 
 </p>
@@ -33,34 +37,54 @@
 <p align="center">
 
 <a href="https://github.com/quangdz312/Reinforcement-Learning">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning&theme=tokyonight&show_owner=false&border_radius=12"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning&theme=tokyonight&show_owner=false&border_radius=12"
+  />
 </a>
 
 <a href="https://github.com/quangdz312/Reinforcement-Learning-Projects">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning-Projects&theme=tokyonight&show_owner=false&border_radius=12"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning-Projects&theme=tokyonight&show_owner=false&border_radius=12"
+  />
 </a>
 
 </p>
 
 ---
-
 # 📊 GitHub Analytics
 
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=quangdz312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quangdz312&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
+
+</td>
+
+</tr>
+</table>
+
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quangdz312&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=12"/>
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quangdz312&theme=tokyonight&hide_border=true&border_radius=12&card_width=445"/>
-
-</p>
-
-<p align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=quangdz312&theme=tokyo-night"/>
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=quangdz312&theme=tokyo-night&hide_border=true&area=true"
+/>
 
 </p>
-
----
 
 # 🛠️ Tech Stack
 
@@ -131,7 +155,6 @@
 # 🎯 Current Focus
 
 - 🤖 ROS2 Robot
-- 🚗 Autonomous Navigation
 - 🧠 Reinforcement Learning
 - 👁️ Computer Vision
 - 💬 Large Language Models
@@ -145,9 +168,6 @@
 - ✅ PyTorch
 - ✅ Reinforcement Learning
 - 🔄 ROS2
-- 🔄 Navigation2
-- 🔄 MoveIt2
-- 🔄 Isaac Sim
 
 ---
 
@@ -155,7 +175,9 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=quangdz312&theme=tokyonight"/>
+<img
+  src="https://streak-stats.demolab.com?user=quangdz312&theme=tokyonight"
+/>
 
 </p>
 
@@ -165,7 +187,9 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=quangdz312&style=for-the-badge&color=blueviolet"/>
+<img
+  src="https://komarev.com/ghpvc/?username=quangdz312&style=for-the-badge&color=blueviolet"
+/>
 
 </p>
 
@@ -178,3 +202,4 @@
 > *"Learning by building. Building by experimenting."*
 
 </div>
+
