@@ -23,32 +23,17 @@
 
 # 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
 
-## 🤖 TeleCollect Platform
-
-**End-to-end robotics data platform for imitation learning**
-
-Collect demonstrations through hand-tracking teleoperation or scripted policies, review and package datasets, train BC/BC-RNN policies, and evaluate checkpoints with simulation rollouts.
-
-<a href="https://telecollect.io.vn">
-  <img width="98%" src="assets/telecollect-landing.png" alt="TeleCollect Platform landing page" />
+<a href="https://github.com/quangdz312/TeleCollect-Platform">
+  <img
+    width="98%"
+    src="assets/telecollect-project-card.svg"
+    alt="TeleCollect Platform — end-to-end robotics data platform for imitation learning"
+  />
 </a>
 
-<br />
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-Robotics-1565C0?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-[**Live Demo**](https://telecollect.io.vn) · [**Video Demo**](https://www.youtube.com/watch?v=eWnuH2-vsIE) · [**Repository**](https://github.com/quangdz312/TeleCollect-Platform)
-
-</div>
-
-<br />
+</p>
 
 <p align="center">
 
