@@ -27,19 +27,15 @@
 
 <a href="https://github.com/quangdz312/TeleCollect-Platform">
   <img
-    width="98%"
+    width="49%"
     src="assets/telecollect-project-card.svg"
     alt="TeleCollect Platform — end-to-end robotics data platform for imitation learning"
   />
 </a>
 
-</p>
-
-<p align="center">
-
 <a href="https://github.com/quangdz312/my_robot">
   <img
-    width="98%"
+    width="49%"
     src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=quangdz312&repo=my_robot&theme=tokyonight&show_owner=false&border_radius=12"
   />
 </a>
