@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Dang Minh Quang
 
-### 🤖 AI • Robotics • Reinforcement Learning • Computer Vision • LLMs
+### 🤖 AI • Robotics • Reinforcement Learning • LLMs
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Robotics+Developer;Reinforcement+Learning;Computer+Vision;Large+Language+Models" />
 
@@ -16,7 +16,6 @@
 - 🎓 Student at **HUS - VNU**
 - 🤖 Passionate about **Robotics & Autonomous Navigation**
 - 🧠 Interested in **Reinforcement Learning**
-- 👁️ Building **Computer Vision** applications
 - 💬 Exploring **Large Language Models**
 
 ---
@@ -164,7 +163,6 @@
 
 - 🤖 ROS2 Robot
 - 🧠 Reinforcement Learning
-- 👁️ Computer Vision
 - 💬 Large Language Models
 
 ---
