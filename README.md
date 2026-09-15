@@ -105,7 +105,7 @@
 
 <img src="https://img.shields.io/badge/RViz2-0052CC?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/MoveIt2-009688?style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/badge/MoveIt2-009688?style=for-the-badge"/> -->
 
 </p>
 
