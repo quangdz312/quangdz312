@@ -14,7 +14,7 @@
 # 🚀 About Me
 
 - 🎓 Student at **HUS - VNU**
-- 🤖 Passionate about **Robotics & Autonomous Navigation**
+- 🤖 Passionate about **Robotics*
 - 🧠 Interested in **Reinforcement Learning**
 - 💬 Exploring **Large Language Models**
 
