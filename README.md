@@ -20,78 +20,62 @@
 
 ---
 
+
 # 🚀 Featured Projects
 
 <p align="center">
-
-<a href="https://github.com/quangdz312/TeleCollect-Platform">
-  <img
-    width="49%"
-    src="assets/telecollect-project-card.svg"
-    alt="TeleCollect Platform — end-to-end robotics data platform for imitation learning"
-  />
-</a>
-
-<a href="https://github.com/quangdz312/my_robot">
-  <img
-    width="49%"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=quangdz312&repo=my_robot&theme=tokyonight&show_owner=false&border_radius=12"
-  />
-</a>
-
+  <a href="https://github.com/quangdz312/TeleCollect-Platform">
+    <img src="assets/telecollect-project-card.svg" width="49%" />
+  </a>
+  <a href="https://github.com/quangdz312/my_robot">
+    <img src="assets/my-robot-project-card.svg" width="49%" />
+  </a>
 </p>
 
 <p align="center">
-
-<a href="https://github.com/quangdz312/Reinforcement-Learning">
-  <img
-    width="49%"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning&theme=tokyonight&show_owner=false&border_radius=12"
-  />
-</a>
-
-<a href="https://github.com/quangdz312/Reinforcement-Learning-Projects">
-  <img
-    width="49%"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=quangdz312&repo=Reinforcement-Learning-Projects&theme=tokyonight&show_owner=false&border_radius=12"
-  />
-</a>
-
+  <a href="https://github.com/quangdz312/Reinforcement-Learning">
+    <img src="assets/reinforcement-learning-project-card.svg" width="49%" />
+  </a>
+  <a href="https://github.com/quangdz312/Reinforcement-Learning-Projects">
+    <img src="assets/reinforcement-learning-projects-card.svg" width="49%" />
+  </a>
 </p>
 
 ---
+
+---
+
 # 📊 GitHub Analytics
 
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=quangdz312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quangdz312&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/quangdz312">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=quangdz312&show_icons=true&theme=tokyonight&hide_border=true&card_width=450&custom_title=GitHub%20Stats"
+      width="49%"
+      height="200"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/quangdz312">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdz312&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450&custom_title=Most%20Used%20Languages"
+      width="49%"
+      height="200"
+      alt="Most Used Languages"
+    />
+  </a>
+</p>
 
 <p align="center">
-
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=quangdz312&theme=tokyo-night&hide_border=true&area=true"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=quangdz312&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="Contribution Graph"
+  />
 </p>
+
+---
+
 
 # 🛠️ Tech Stack
 
