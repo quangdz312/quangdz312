@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="136" viewBox="0 0 480 136" role="img" aria-label="Reinforcement-Learning project card">
+<rect x="1" y="1" width="478" height="134" rx="7" fill="#1b1c2b" stroke="#a6add1" stroke-width="1.3"/>
+<g fill="none" stroke="#c6a3fa" stroke-width="1.65" stroke-linejoin="round"><rect x="30" y="27" width="12" height="17" rx="1"/><path d="M33 31h6M33 35h6M33 39h4M35 44v4"/></g>
+<text x="57" y="38" fill="#70a5ff" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700">Reinforcement-Learning</text>
+<text x="29" y="72" fill="#28c3e7" font-family="Arial,Helvetica,sans-serif" font-size="12.2">Reinforcement learning algorithms and study</text>
+<text x="29" y="92" fill="#98a6d5" font-family="Arial,Helvetica,sans-serif" font-size="9.5">Explore · Implement · Train · Evaluate</text>
+<circle cx="32" cy="115" r="4.1" fill="#3589ba"/><text x="45" y="119" fill="#3589ba" font-size="10.3" font-family="Arial,Helvetica,sans-serif">RL</text><circle cx="105" cy="115" r="4.1" fill="#3b97db"/><text x="118" y="119" fill="#3b97db" font-size="10.3" font-family="Arial,Helvetica,sans-serif">Python</text><circle cx="181.4" cy="115" r="4.1" fill="#ed5c46"/><text x="194.4" y="119" fill="#ed5c46" font-size="10.3" font-family="Arial,Helvetica,sans-serif">Algorithms</text><circle cx="283.4" cy="115" r="4.1" fill="#20b3df"/><text x="296.4" y="119" fill="#20b3df" font-size="10.3" font-family="Arial,Helvetica,sans-serif">AI</text>
+</svg>
